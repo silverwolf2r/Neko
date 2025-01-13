@@ -6,6 +6,9 @@ This was also my first time using ChatGPT as a hardcore helper on a program and 
 I built this to run on Windows and have not tested it on other OS's please let me know if you would like a version for other OSs.
 
 ### File Explanation
-4 Exes with different color cats
+4 Exes with different color cats (can be found in the releases)
+
 The Python script
+
 Image folders with the animations
+
